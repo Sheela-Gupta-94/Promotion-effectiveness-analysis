@@ -1,0 +1,2 @@
+# Promotion-effectiveness-analysis
+An end-to-end analysis of retail promotion performance across U.S. stores, focused on evaluating effectiveness, identifying key drivers, and uncovering actionable insights. The project delivers data-driven recommendations to optimize promotional strategies while supporting sustainable business growth.
